@@ -1,0 +1,11 @@
+C:\Users\Stef\Documents\GitHub\ExodusAutoUpdaterNET\ExodusAutoUpdater NET\ExodusAutoUpdater NET\obj\Debug\ExodusAutoUpdater NET.csprojAssemblyReference.cache
+C:\Users\Stef\Documents\GitHub\ExodusAutoUpdaterNET\ExodusAutoUpdater NET\ExodusAutoUpdater NET\obj\Debug\ExodusAutoUpdater NET.csproj.CoreCompileInputs.cache
+C:\Users\Stef\Documents\GitHub\ExodusAutoUpdaterNET\ExodusAutoUpdater NET\ExodusAutoUpdater NET\bin\Debug\ExodusAutoUpdater NET.exe.config
+C:\Users\Stef\Documents\GitHub\ExodusAutoUpdaterNET\ExodusAutoUpdater NET\ExodusAutoUpdater NET\bin\Debug\ExodusAutoUpdater NET.exe
+C:\Users\Stef\Documents\GitHub\ExodusAutoUpdaterNET\ExodusAutoUpdater NET\ExodusAutoUpdater NET\bin\Debug\ExodusAutoUpdater NET.pdb
+C:\Users\Stef\Documents\GitHub\ExodusAutoUpdaterNET\ExodusAutoUpdater NET\ExodusAutoUpdater NET\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Stef\Documents\GitHub\ExodusAutoUpdaterNET\ExodusAutoUpdater NET\ExodusAutoUpdater NET\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Stef\Documents\GitHub\ExodusAutoUpdaterNET\ExodusAutoUpdater NET\ExodusAutoUpdater NET\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Stef\Documents\GitHub\ExodusAutoUpdaterNET\ExodusAutoUpdater NET\ExodusAutoUpdater NET\obj\Debug\ExodusAutoUpdater NET.csproj.CopyComplete
+C:\Users\Stef\Documents\GitHub\ExodusAutoUpdaterNET\ExodusAutoUpdater NET\ExodusAutoUpdater NET\obj\Debug\ExodusAutoUpdater NET.exe
+C:\Users\Stef\Documents\GitHub\ExodusAutoUpdaterNET\ExodusAutoUpdater NET\ExodusAutoUpdater NET\obj\Debug\ExodusAutoUpdater NET.pdb
